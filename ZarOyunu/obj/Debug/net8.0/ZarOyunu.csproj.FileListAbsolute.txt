@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\bin\Debug\net8.0\ZarOyunu.exe
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\bin\Debug\net8.0\ZarOyunu.deps.json
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\bin\Debug\net8.0\ZarOyunu.runtimeconfig.json
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\bin\Debug\net8.0\ZarOyunu.dll
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\bin\Debug\net8.0\ZarOyunu.pdb
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\obj\Debug\net8.0\ZarOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\obj\Debug\net8.0\ZarOyunu.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\obj\Debug\net8.0\ZarOyunu.AssemblyInfo.cs
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\obj\Debug\net8.0\ZarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\obj\Debug\net8.0\ZarOyunu.dll
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\obj\Debug\net8.0\refint\ZarOyunu.dll
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\obj\Debug\net8.0\ZarOyunu.pdb
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\obj\Debug\net8.0\ZarOyunu.genruntimeconfig.cache
+C:\Users\asus\Desktop\ZarOyunu\ZarOyunu\obj\Debug\net8.0\ref\ZarOyunu.dll
